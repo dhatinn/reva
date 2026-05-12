@@ -7,7 +7,7 @@ import img2 from './assets/album/2.jpg'
 import img3 from './assets/album/3.jpg'
 import img4 from './assets/album/4.jpg'
 import img5 from './assets/album/5.jpg'
-import img6 from './assets/album/6.jpg'
+import img6 from './assets/album/6.JPG'
 import img7 from './assets/album/7.jpg'
 import './App.css'
 
